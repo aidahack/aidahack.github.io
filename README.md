@@ -1,4 +1,4 @@
-AIDAHack reimagines the traditional hackathon, offering a two-month innovation sprint that mirrors real-world development cycles. Our theme, **Beyond a GPT Wrapper**, challenges UIUC's brightest minds to push AI boundaries beyond surface-level implementations. Participants can dive into any AI domain - from Vision Transformers to integrated agent systems - to create something truly groundbreaking.
+AIDAHack re-imagines the traditional hackathon, offering a two-month innovation sprint that mirrors real-world development cycles. Our theme, **Beyond a GPT Wrapper**, challenges UIUC's brightest minds to push AI boundaries beyond surface-level implementations. Participants can dive into any AI domain - from Vision Transformers to integrated agent systems - to create something truly groundbreaking.
 
 Drawing inspiration from UIUC's legacy of spawning tech giants like PayPal and YouTube, AIDAHack provides a platform for the next generation of innovators to shine. Through multiple development sprints, students will hone their skills, tackle complex problems, and bring sophisticated AI projects to life.
 
