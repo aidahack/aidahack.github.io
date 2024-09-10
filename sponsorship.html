@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sponsorship</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Sponsorship Information</h1>
+    <p>Details about sponsorship opportunities...</p>
+
+<script>
+    const markdown = `
+# Welcome to the Hackathon!
+
+## Sponsorship
+[Check out our sponsorship page](sponsorship.html)
+
+## Rules
+- Rule 1: Be creative
+- Rule 2: Work as a team
+- Rule 3: Have fun!
+
+## Code Example
+\`\`\`javascript
+console.log('Hello, Hackathon!');
+\`\`\`
+        `;
+
+    // Convert Markdown to HTML using marked.js
+    const html = marked(markdown);
+
+    document.getElementById('markdown-content').innerHTML = html;
+</script>
+    <a href="index.html">Go back to homepage</a>
+</body>
+</html>
